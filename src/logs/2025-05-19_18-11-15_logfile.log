@@ -1,0 +1,4 @@
+[2025-05-19 18:11:17,171 ] 21 root - INFO - \U0001f4c2 Loaded 2 documents from pickle file.
+[2025-05-19 18:11:17,231 ] 1352 botocore.credentials - INFO - Found credentials in shared credentials file: ~/.aws/credentials
+[2025-05-19 18:12:15,698 ] 87 root - INFO - \U0001f9e9 Created 152 text chunks using RecursiveCharacterTextSplitter.
+[2025-05-19 18:12:19,670 ] 108 root - INFO - \u2705 Vector embeddings saved to MongoDB.

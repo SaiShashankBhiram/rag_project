@@ -1,0 +1,6 @@
+[2025-05-19 15:49:41,469 ] 10 root - INFO - Connecting to MongoDB
+[2025-05-19 15:49:41,755 ] 21 root - INFO - Fetching data from MongoDB
+[2025-05-19 15:49:43,811 ] 30 root - INFO - Document 1 retreived, length: 129809 chars
+[2025-05-19 15:49:43,811 ] 30 root - INFO - Document 2 retreived, length: 5652 chars
+[2025-05-19 15:49:43,811 ] 38 root - INFO - Total documents fetched: 2
+[2025-05-19 15:49:43,821 ] 47 root - INFO - Documents saved to data/documents.pkl
